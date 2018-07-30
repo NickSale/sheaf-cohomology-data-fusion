@@ -20,7 +20,7 @@ cohomology dbFormat 0
 Which outputs (minus the interpretation):
 ```
 [[0,0,1,0, 0,1,0,0],   (i.e. PaysTax? == True in both )
- [0,0,0,1, 0,0,1,0],   (i.e. PaysTax> == False in both)
+ [0,0,0,1, 0,0,1,0],   (i.e. PaysTax? == False in both)
  [0,1,0,0, 1,0,0,0]]   (i.e. Age is the same in both)
 ```
 Indicating the trivial observation that we can only be sure the join is correct for data which consists of only equal Age and PaysTax? variables, and no other data.
