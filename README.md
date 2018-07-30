@@ -1,5 +1,5 @@
 # sheaf-cohomology
-Short Haskell script to compute cohomology of database joins for playing around while working through http://www.drmichaelrobinson.net/sheaftutorial/. (Note, works over ℚ)
+Old project from 2016 consisting of a short Haskell script to compute cohomology of database joins for playing around with while working through http://www.drmichaelrobinson.net/sheaftutorial/.
 
 ### Example 1:
 
