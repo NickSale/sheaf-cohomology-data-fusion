@@ -164,7 +164,7 @@ Categoric variable values are stored (and hence ordered) explicitly to give mean
 of the vector spaces used to represent those types
 
 > booleans = ["False", "True"]
-> strings = ["Hello", "Alice", "Bob", "Charlie"]
+> strings = ["Test String"]
 
 typeDim gives the dimension of the vector space used to represent a single instance of a given type
 
