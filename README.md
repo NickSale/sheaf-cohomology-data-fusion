@@ -23,7 +23,7 @@ Which outputs (minus the interpretation):
  [0,0,0,1, 0,0,1,0],   (i.e. PaysTax? == False in both)
  [0,1,0,0, 1,0,0,0]]   (i.e. Age is the same in both)
 ```
-Indicating the trivial observation that we can only be sure the join is correct for data which consists of only equal Age and PaysTax? variables, and no other data.
+Indicating the observation that we can only be sure the join is correct for data which consists of only equal Age and PaysTax? variables, and no other data. It's worth noting that we can't take into account that some identifiers are unique, like the NIN.
 
 ### Example 2:
 (todo) add example with non-trivial 1st cohomology (/todo)
