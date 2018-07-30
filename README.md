@@ -26,4 +26,4 @@ Which outputs (minus the interpretation):
 Indicating the trivial observation that we can only be sure the join is correct for data which consists of only equal Age and PaysTax? variables, and no other data.
 
 ## Example 2:
-<todo> add example with non-trivial 1st cohomology </todo>
+(todo) add example with non-trivial 1st cohomology (/todo)
