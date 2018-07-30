@@ -1,7 +1,7 @@
 # sheaf-cohomology
-Short Haskell script to compute cohomology of database joins
+Short Haskell script to compute cohomology of database joins for playing around while working through http://www.drmichaelrobinson.net/sheaftutorial/. (Note, works over ℚ)
 
-## Example 1:
+### Example 1:
 
 Say we want to know a basis for global sections (i.e. globally consistent data) in the following straightforward database inner join:
 
@@ -25,5 +25,5 @@ Which outputs (minus the interpretation):
 ```
 Indicating the trivial observation that we can only be sure the join is correct for data which consists of only equal Age and PaysTax? variables, and no other data.
 
-## Example 2:
+### Example 2:
 (todo) add example with non-trivial 1st cohomology (/todo)
