@@ -1,4 +1,4 @@
-# sheaf-cohomology
+# sheaf-cohomology-data-fusion
 Old project from 2016 consisting of a short Haskell script to compute cohomology of database joins for playing around with while working through http://www.drmichaelrobinson.net/sheaftutorial/.
 
 ### Example 1:
