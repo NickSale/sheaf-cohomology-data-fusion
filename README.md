@@ -50,7 +50,7 @@ let dbFormat = [  [(sWeather,[]),(sHumidity,[]),(sCamera,[])],  [ (sSun,[(0, [[1
 [[1,0,0,1,1,0],[0,1,1,0,0,1]]
 ```
 
-We immediately note that we have non-trivial 1st cohomology correspnding to the it raining cats and dogs: it is consistent to assume that it is raining cats and dogs, but this assignment could not have come from any of the sensors.
+We immediately note that we have non-trivial 1st cohomology correspnding to it being either true or false that it's raining cats and dogs: it is consistent to assume that it is raining cats and dogs, but this assignment could not have come from any of the sensors.
 
 The 0th cohomology is just telling us that it can't be raining and sunny at the same time.
 
